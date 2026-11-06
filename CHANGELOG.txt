@@ -8,7 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
-## Unreleased
+### Fri 06 Nov 2026 04:45 AM EST
+
+- Created nd3g GitHub project, setup CNAME, cloned and configured local repo.
 
 ### Fri 06 Nov 2026 02:31 AM EST
 
