@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 07 Nov 2026 05:15 PM EST
+
+- Downloaded and installed Fedora Server 45 onto kermit
+
 ### Fri 06 Nov 2026 05:21 AM EST
 
 - Created llamasrv project. Setup CNAME and local repo.
