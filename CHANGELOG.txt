@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Unreleased
+
+- Created a Fedora KB page mapping `apt` to `dnf`.
+
 ### Sun 08 Nov 2026 05:51 AM EST
 
 - Ongoing work setting up FreeIPA on Kermit and Paris
