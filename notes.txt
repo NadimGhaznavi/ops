@@ -1,0 +1,7 @@
+Project Purpose MyCount suitability
+crawler-user-agents Maintained JSON database of crawler signatures, with Go, Python and JavaScript packages Excellent
+isbot   JavaScript library for identifying known bots from user-agent strings   Excellent for JS/Node
+Matomo Device Detector  Detailed bot, browser, operating-system and device identification   Very good, especially for PHP
+CrowdSec    Detects suspicious activity through logs and can block malicious IPs    Good for server protection
+Anubis  Challenges automated scrapers before allowing access    Useful if scraping becomes disruptive
+Coraza WAF  Web application firewall integrating with Caddy and OWASP rules Good for attack prevention, not analytics classification

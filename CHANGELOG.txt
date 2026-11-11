@@ -10,6 +10,17 @@ project or repository.
 
 ### Unreleased
 
+- Setup Codex FreeIPA account
+- Learning how to setup paris as a FreeIPA replica
+- FreeIPA automounter maps are now working e.g. /imports/disk1
+- Cleaned out all automounter FreeIPA configs: Fresh start.
+- Configured indirect FreeIPA automounter map for /imports/disk1
+- Configured FreeIPA automounted homedirs
+- Configured FreeIPA sudo access
+- Troubleshooting FreeIPA and ssh access
+
+### Sun 08 Nov 2026 06:29 AM EST
+
 - Created a Fedora KB page mapping `apt` to `dnf`.
 
 ### Sun 08 Nov 2026 05:51 AM EST
