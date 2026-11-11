@@ -18,6 +18,8 @@ project or repository.
 - Configured FreeIPA automounted homedirs
 - Configured FreeIPA sudo access
 - Troubleshooting FreeIPA and ssh access
+- Add Bingo to the domain
+- Configured nadim account
 
 ### Sun 08 Nov 2026 06:29 AM EST
 
