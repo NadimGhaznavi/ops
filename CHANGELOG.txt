@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 14 Nov 2026 02:36:08 PM EST
+
+- Promote Paris to a FreeIPA replica with integrated DNS and CA services.
+- Configure both IPA DNS servers persistently on all eight realm hosts.
+- Document replica setup and client configuration requirements in the KB
+  FreeIPA procedure; verify replication, DNS and direct Paris authentication.
+
 ### Sat 14 Nov 2026 01:28:56 PM EST
 
 - Add the BMForge project, constants, localization and installation skills,
