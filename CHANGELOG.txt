@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 14 Nov 2026 07:20:10 AM EST
+
+- Troubleshooting automounter on paris.
+
+### Sat 14 Nov 2026 06:58:24 AM EST
+
+- Enrolling Islands into the FreeIPA realm.
+
 ### Sat 14 Nov 2026 06:40:30 AM EST
 
 - Troubleshooting why neuromancer isn't showing up in DNS.
