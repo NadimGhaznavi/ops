@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 14 Nov 2026 01:28:56 PM EST
+
+- Add the BMForge project, constants, localization and installation skills,
+  pinned to revision 29a100c39997 with a local manager and lock file.
+
+### Sat 14 Nov 2026 01:24:28 PM EST
+
+- Configure Paris to be FreeIPA replica.
+
 ### Sat 14 Nov 2026 07:20:10 AM EST
 
 - Troubleshooting automounter on paris.
