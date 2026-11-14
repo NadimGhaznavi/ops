@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 14 Nov 2026 02:41:05 PM EST
+
+- Troubleshoot admin access to kermit
+
 ### Sat 14 Nov 2026 02:36:08 PM EST
 
 - Promote Paris to a FreeIPA replica with integrated DNS and CA services.
