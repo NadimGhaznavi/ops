@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Mon 16 Nov 2026 11:53:01 PM EST
+
+- Investigated and resolved neuromancer down issue
+- Working to validate everything after the cable to fibre cutover
+
 ### Sat 14 Nov 2026 02:41:05 PM EST
 
 - Troubleshoot admin access to kermit
