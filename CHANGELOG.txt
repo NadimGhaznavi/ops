@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Thu 19 Nov 2026 05:56:02 PM EST
+
+- Traced the MyCount root cause to a stale DNS record on kermit.
+
 ### Thu 19 Nov 2026 05:23:42 PM EST
 
 - Investigated why MyCount wasn't working.
