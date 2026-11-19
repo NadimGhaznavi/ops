@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Thu 19 Nov 2026 05:23:42 PM EST
+
+- Investigated why MyCount wasn't working.
+  - BMDynIP was failing it's authentication.
+  - Generated new GoDaddy token and installed it.
+  - Switching to BMDynIP project for permanent fix.
+
 ### Mon 16 Nov 2026 11:53:01 PM EST
 
 - Investigated and resolved neuromancer down issue
