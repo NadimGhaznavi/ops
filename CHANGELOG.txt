@@ -8,6 +8,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This changelog is for tracking operations work that does not fall under a specific 
 project or repository.
 
+### Sat 21 Nov 2026 06:17:46 AM EST
+
+- Restore Phoebe's automounts with IPv4/TCP defaults for its FreeIPA
+  `auto.imports` and `auto.ipahome` maps in
+  `/etc/auto.master.d/10-ipa-nfs-ipv4.autofs`.
+- Remove four confirmed stale Wintermute AAAA records from shared FreeIPA
+  DNS with approval, retaining both valid published IPv6 addresses. Save
+  the original records and rollback script on Wintermute under
+  `/var/tmp/ops-wintermute-dns-20261121T111711Z`.
+- Flush Phoebe's DNS cache and verify fresh share and home mounts in
+  0.11 and 0.66 seconds, home-directory read/write access, and enabled
+  autofs/SSSD services. Confirm Kermit answers DNS over IPv6 UDP and TCP.
+
+### Sat 21 Nov 2026 05:44:05 AM EST
+
+- Troubleshooting phoebe's cmdb patch failures.
+
 ### Thu 19 Nov 2026 05:56:02 PM EST
 
 - Traced the MyCount root cause to a stale DNS record on kermit.
